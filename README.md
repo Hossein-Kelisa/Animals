@@ -6,3 +6,5 @@ this is prep-exercise of week 1
 [Dog] (https://github.com/Hossein-Kelisa/Animals/blob/main/Dog.md)
 
 [Cat] (https://github.com/Hossein-Kelisa/Animals/blob/main/Cat.md)
+
+[Tiger] (https://github.com/Hossein-Kelisa/Animals/blob/main/Tiger.md)
